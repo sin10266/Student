@@ -7,7 +7,7 @@ package sheridancollege.softwaredevelopment;
 
 /**
  *
- * @author Manjot Singh
+ * @author Manjot Singh - May 2020
  */
 public class Student {
     
